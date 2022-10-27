@@ -23,7 +23,7 @@ sudo su
 
 ```
 
-wget -q -O Mamaki.sh https://raw.githubusercontent.com/Contribution-DAO/Celestia/main/Mamaki.sh && chmod +x Mamaki.sh && sudo /bin/bash Mamaki.sh
+wget -q -O Mamaki.sh https://raw.githubusercontent.com/JumpCCY/Celestia/main/Mamaki.sh && chmod +x Mamaki.sh && sudo /bin/bash Mamaki.sh
 ```
 
 Node Name and Wallet Name plese use english letters and number only
